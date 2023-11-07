@@ -22,3 +22,21 @@ For some time I've worked as a teacher in public school, but right now I'm priva
 - Basic knowledge of: C, Java, Python
 - With enough time can explain anything
 
+## Code example
+### Classical FizzBuzz game
+
+``` js
+const fizzOrBuzz = (number) => {
+    let res = "";
+    if (number % 3 === 0) res+="Fizz";
+    if (number % 5 === 0) res+="Buzz";
+    if (res === "") res = number;
+    return res;
+}
+
+const fizzBuzzLoop = (loopEnd) => {
+    for (i = 1; i<=loopEnd; i++) {
+        fizzOrBuzz(i)
+    }
+}
+```
