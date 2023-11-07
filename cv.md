@@ -40,3 +40,14 @@ const fizzBuzzLoop = (loopEnd) => {
     }
 }
 ```
+
+## Education
+- **University**: Stakhanov Engineering and Pedagogical Institute, Informational systems and networks.
+- **Courses**: 
+  * [CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
+  * [W3School](https://www.w3schools.com/)
+  * [Freecodebootcamp](https://www.freecodecamp.org/)
+  * [javascript.ru](https://learn.javascript.ru/)
+  * [Frontendmentor](https://www.frontendmentor.io/)
+  * [UlbiTV](https://www.youtube.com/@UlbiTV)
+
