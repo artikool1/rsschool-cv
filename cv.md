@@ -51,3 +51,5 @@ const fizzBuzzLoop = (loopEnd) => {
   * [Frontendmentor](https://www.frontendmentor.io/)
   * [UlbiTV](https://www.youtube.com/@UlbiTV)
 
+## English
+**C1**: Can freely watch english content, read documentation. Never had an opportunity to speak to a native speaker yet.
